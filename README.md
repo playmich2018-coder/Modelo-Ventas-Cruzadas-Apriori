@@ -1,27 +1,23 @@
-# 📉 Modelo de Retención de Clientes (XGBoost + SHAP)
+# 🛒 Análisis de la Cesta de la Compra (Reglas de Asociación)
 
 ## 📖 ¿Para qué sirve y por qué utilizarlo?
-El análisis de Churn (Fuga de Clientes) permite identificar qué usuarios están en riesgo de abandonar la marca antes de que lo hagan. 
+El análisis de la cesta de la compra (Market Basket Analysis) es una técnica de minería de datos que descubre patrones ocultos de consumo masivo. 
 
-En un entorno de retail o consumo masivo, su implementación es estratégica para:
-1. **Retención Proactiva:** Permite dirigir campañas de fidelización únicamente a los clientes en riesgo, optimizando el presupuesto de marketing.
-2. **Identificación de Puntos de Dolor:** Ayuda a entender si los clientes se van por precios, por mal servicio o por falta de interacción.
-3. **Maximización del LTV (Life Time Value):** Retener a un cliente es matemáticamente más rentable que adquirir uno nuevo.
+En operaciones de retail y cadenas de restaurantes, su implementación es el núcleo de la rentabilidad:
+1. **Ventas Cruzadas "Sin Culpa":** Permite a los cajeros recomendar productos que matemáticamente hacen sentido para el cliente, aumentando el ticket promedio sin forzar la venta.
+2. **Diseño de Combos:** Identifica qué artículos se consumen juntos naturalmente para empaquetarlos en promociones atractivas.
+3. **Optimización de Vitrinas:** Ayuda a organizar el *layout* de las tiendas ubicando productos altamente asociados cerca unos de otros.
 
 ## 🎯 Objetivo del Proyecto
-Desarrollar un modelo predictivo capaz de anticipar la fuga de clientes y, de manera crítica, explicar los motivos subyacentes de dicha fuga utilizando Inteligencia Artificial Explicable (XAI).
+Procesar un historial de tickets de caja para extraer Reglas de Asociación, calculando la probabilidad de que la compra de un producto "A" derive en la compra de un producto "B", midiendo la fuerza real de esa conexión.
 
 ## 🛠 Metodología y Tecnologías
-Se construyó un pipeline analítico avanzado superando los modelos tradicionales de clasificación de caja negra.
-* **Motor Predictivo:** XGBoost Classifier, optimizado para funciones de pérdida logarítmica (logloss).
-* **Interpretabilidad (XAI):** Valores SHAP (SHapley Additive exPlanations) para la atribución de importancia de variables a nivel global y local.
-* **Librerías:** Pandas, Scikit-Learn, XGBoost, SHAP, Matplotlib.
+Se implementó el algoritmo Apriori para superar el simple conteo manual, evaluando las métricas estadísticas de **Confianza** (probabilidad de aceptación) y **Lift** (fuerza de la asociación por encima de la casualidad).
+* **Motor Analítico:** Algoritmo Apriori (Minería de Datos).
+* **Preprocesamiento:** Transformación de transacciones a matrices One-Hot Encoding.
+* **Librerías:** Pandas, MLxtend (Machine Learning Extensions).
 
-## 🧠 Resultados y Explicabilidad del Negocio
-El modelo XGBoost analizó 2000 perfiles de comportamiento transaccional. La integración con SHAP reveló los siguientes *insights* operativos:
+## 🧠 Resultados y Aplicación de Negocio
+El algoritmo analizó un volumen de 1500 facturas simuladas, logrando identificar las conexiones más fuertes del menú. 
 
-1. **El servicio es el mayor riesgo:** La variable `Quejas_Servicio` es el factor principal de abandono.
-2. **Digitalización como retención:** No estar inscrito en la aplicación móvil de lealtad (`Usa_App_Lealtad = 0`) incrementa drásticamente la probabilidad de fuga.
-3. **Inactividad crítica:** Superar el umbral de `Dias_Inactivo` empuja al cliente fuera del ecosistema de la marca.
-
-Este modelo permite a los equipos de operaciones y servicio al cliente enfocar sus esfuerzos no en guerras de precios, sino en la calidad del servicio en tienda y la adopción digital.
+Al filtrar por las reglas con un **Lift superior a 1.2** (conexiones no casuales), el sistema generó un pipeline de recomendaciones directas. Este modelo entrega a la gerencia de operaciones directrices claras: *"Si un cliente pide el producto X, el sistema instruye ofrecer el producto Y"*, conociendo de antemano el porcentaje exacto de probabilidad de cierre de esa venta adicional.

@@ -1,0 +1,1501 @@
+ID_Ticket,Articulos_Comprados
+1000,Capuchino
+1001,"Pan de Bono,Tinto"
+1002,"Pan de Bono,Tinto"
+1003,"Empanada,Tinto"
+1004,"Capuchino,Jugo de Naranja"
+1005,"Empanada,Tinto,Jugo de Naranja"
+1006,Tinto
+1007,Agua
+1008,"Empanada,Tinto"
+1009,Jugo de Naranja
+1010,Jugo de Naranja
+1011,"Galleta de Avena,Latte"
+1012,Tinto
+1013,"Capuchino,Jugo de Naranja,Torta de Chocolate"
+1014,Tinto
+1015,"Pan de Bono,Tinto"
+1016,"Empanada,Tinto,Torta de Chocolate"
+1017,"Empanada,Tinto,Latte"
+1018,"Empanada,Tinto"
+1019,"Latte,Torta de Chocolate"
+1020,"Pan de Bono,Tinto,Latte"
+1021,Agua
+1022,"Latte,Torta de Chocolate"
+1023,Tinto
+1024,"Pan de Bono,Agua,Tinto"
+1025,Agua
+1026,Capuchino
+1027,"Capuchino,Torta de Chocolate"
+1028,Jugo de Naranja
+1029,"Empanada,Tinto"
+1030,"Pan de Bono,Tinto,Galleta de Avena"
+1031,"Pan de Bono,Jugo de Naranja"
+1032,"Empanada,Tinto"
+1033,Jugo de Naranja
+1034,"Galleta de Avena,Pan de Bono,Latte"
+1035,"Pan de Bono,Tinto"
+1036,"Capuchino,Tinto"
+1037,"Agua,Empanada"
+1038,Capuchino
+1039,Capuchino
+1040,"Empanada,Tinto"
+1041,Capuchino
+1042,"Empanada,Tinto"
+1043,"Empanada,Tinto,Latte"
+1044,"Pan de Bono,Tinto"
+1045,"Empanada,Jugo de Naranja"
+1046,"Pan de Bono,Jugo de Naranja"
+1047,"Empanada,Jugo de Naranja"
+1048,Tinto
+1049,"Galleta de Avena,Latte"
+1050,"Tinto,Torta de Chocolate"
+1051,"Pan de Bono,Agua,Tinto"
+1052,"Pan de Bono,Tinto"
+1053,"Pan de Bono,Tinto"
+1054,"Empanada,Tinto"
+1055,Tinto
+1056,"Empanada,Tinto"
+1057,"Pan de Bono,Empanada,Jugo de Naranja"
+1058,Capuchino
+1059,"Pan de Bono,Agua"
+1060,Jugo de Naranja
+1061,"Capuchino,Jugo de Naranja"
+1062,"Empanada,Jugo de Naranja"
+1063,"Empanada,Tinto"
+1064,"Tinto,Jugo de Naranja"
+1065,"Empanada,Jugo de Naranja"
+1066,Tinto
+1067,"Capuchino,Torta de Chocolate"
+1068,"Jugo de Naranja,Torta de Chocolate"
+1069,Jugo de Naranja
+1070,"Empanada,Tinto"
+1071,Jugo de Naranja
+1072,"Pan de Bono,Agua"
+1073,"Capuchino,Torta de Chocolate"
+1074,"Pan de Bono,Tinto"
+1075,Latte
+1076,"Empanada,Tinto"
+1077,Agua
+1078,"Empanada,Latte"
+1079,Tinto
+1080,"Empanada,Tinto"
+1081,Jugo de Naranja
+1082,"Agua,Tinto"
+1083,"Capuchino,Torta de Chocolate"
+1084,"Agua,Empanada"
+1085,"Galleta de Avena,Latte"
+1086,"Empanada,Tinto"
+1087,Agua
+1088,"Empanada,Tinto"
+1089,"Capuchino,Torta de Chocolate"
+1090,"Pan de Bono,Empanada,Tinto"
+1091,"Capuchino,Tinto"
+1092,"Pan de Bono,Tinto"
+1093,Jugo de Naranja
+1094,"Pan de Bono,Tinto"
+1095,Jugo de Naranja
+1096,"Agua,Empanada"
+1097,"Empanada,Tinto"
+1098,Agua
+1099,Latte
+1100,Agua
+1101,Agua
+1102,"Galleta de Avena,Latte"
+1103,"Tinto,Latte"
+1104,"Pan de Bono,Tinto,Jugo de Naranja"
+1105,"Pan de Bono,Tinto"
+1106,Capuchino
+1107,"Empanada,Tinto"
+1108,Tinto
+1109,"Capuchino,Galleta de Avena"
+1110,"Empanada,Tinto"
+1111,Jugo de Naranja
+1112,"Pan de Bono,Jugo de Naranja,Galleta de Avena"
+1113,"Empanada,Tinto"
+1114,Tinto
+1115,"Agua,Empanada"
+1116,Jugo de Naranja
+1117,Capuchino
+1118,"Pan de Bono,Tinto"
+1119,"Capuchino,Torta de Chocolate"
+1120,"Pan de Bono,Tinto"
+1121,"Pan de Bono,Tinto"
+1122,"Pan de Bono,Latte,Torta de Chocolate"
+1123,Tinto
+1124,Capuchino
+1125,"Empanada,Tinto,Torta de Chocolate"
+1126,"Empanada,Tinto,Torta de Chocolate"
+1127,Latte
+1128,Agua
+1129,Agua
+1130,Tinto
+1131,Tinto
+1132,"Galleta de Avena,Latte"
+1133,"Empanada,Tinto"
+1134,Agua
+1135,"Empanada,Tinto"
+1136,Agua
+1137,"Pan de Bono,Jugo de Naranja"
+1138,"Empanada,Tinto"
+1139,Tinto
+1140,"Empanada,Tinto"
+1141,"Pan de Bono,Tinto"
+1142,"Pan de Bono,Jugo de Naranja"
+1143,Latte
+1144,"Empanada,Tinto,Agua"
+1145,"Pan de Bono,Tinto"
+1146,Capuchino
+1147,"Empanada,Tinto"
+1148,Capuchino
+1149,Jugo de Naranja
+1150,"Pan de Bono,Empanada,Tinto"
+1151,"Empanada,Tinto"
+1152,Jugo de Naranja
+1153,Agua
+1154,"Pan de Bono,Tinto"
+1155,"Pan de Bono,Tinto,Latte"
+1156,"Capuchino,Galleta de Avena"
+1157,"Capuchino,Galleta de Avena"
+1158,Capuchino
+1159,"Capuchino,Torta de Chocolate"
+1160,"Empanada,Jugo de Naranja"
+1161,"Galleta de Avena,Latte"
+1162,"Galleta de Avena,Latte"
+1163,Latte
+1164,"Pan de Bono,Tinto"
+1165,"Latte,Torta de Chocolate"
+1166,"Galleta de Avena,Latte"
+1167,"Capuchino,Galleta de Avena"
+1168,"Capuchino,Galleta de Avena"
+1169,Jugo de Naranja
+1170,Tinto
+1171,Capuchino
+1172,"Capuchino,Galleta de Avena"
+1173,"Empanada,Jugo de Naranja"
+1174,"Latte,Torta de Chocolate"
+1175,"Capuchino,Empanada,Tinto"
+1176,"Capuchino,Empanada"
+1177,"Galleta de Avena,Latte"
+1178,"Empanada,Tinto,Agua"
+1179,Jugo de Naranja
+1180,Agua
+1181,"Empanada,Tinto"
+1182,Latte
+1183,"Galleta de Avena,Latte"
+1184,"Pan de Bono,Tinto"
+1185,"Galleta de Avena,Tinto"
+1186,Agua
+1187,"Agua,Jugo de Naranja"
+1188,Agua
+1189,"Latte,Torta de Chocolate"
+1190,"Capuchino,Galleta de Avena"
+1191,Capuchino
+1192,Agua
+1193,"Capuchino,Agua"
+1194,"Empanada,Tinto"
+1195,Agua
+1196,Jugo de Naranja
+1197,"Jugo de Naranja,Torta de Chocolate"
+1198,"Empanada,Tinto"
+1199,"Pan de Bono,Jugo de Naranja"
+1200,"Galleta de Avena,Tinto"
+1201,"Latte,Torta de Chocolate"
+1202,"Galleta de Avena,Latte"
+1203,Agua
+1204,"Tinto,Jugo de Naranja"
+1205,"Pan de Bono,Jugo de Naranja"
+1206,"Pan de Bono,Agua"
+1207,Capuchino
+1208,Agua
+1209,Jugo de Naranja
+1210,Capuchino
+1211,"Latte,Torta de Chocolate"
+1212,Jugo de Naranja
+1213,"Capuchino,Galleta de Avena"
+1214,"Pan de Bono,Jugo de Naranja"
+1215,Tinto
+1216,"Capuchino,Torta de Chocolate"
+1217,Agua
+1218,"Agua,Tinto"
+1219,"Empanada,Tinto"
+1220,"Agua,Empanada"
+1221,Latte
+1222,Tinto
+1223,"Pan de Bono,Tinto"
+1224,"Pan de Bono,Tinto"
+1225,"Galleta de Avena,Latte"
+1226,Agua
+1227,"Galleta de Avena,Latte"
+1228,"Capuchino,Torta de Chocolate"
+1229,"Galleta de Avena,Latte,Capuchino"
+1230,"Agua,Empanada"
+1231,"Capuchino,Galleta de Avena"
+1232,"Pan de Bono,Tinto"
+1233,Capuchino
+1234,"Empanada,Jugo de Naranja"
+1235,"Capuchino,Torta de Chocolate"
+1236,"Empanada,Jugo de Naranja"
+1237,Tinto
+1238,Agua
+1239,"Latte,Torta de Chocolate"
+1240,Agua
+1241,"Empanada,Tinto"
+1242,Tinto
+1243,"Agua,Empanada"
+1244,"Galleta de Avena,Latte"
+1245,"Capuchino,Agua"
+1246,Jugo de Naranja
+1247,"Latte,Torta de Chocolate"
+1248,"Pan de Bono,Tinto"
+1249,Capuchino
+1250,Agua
+1251,Latte
+1252,Agua
+1253,Agua
+1254,"Pan de Bono,Tinto"
+1255,"Pan de Bono,Tinto"
+1256,Latte
+1257,Jugo de Naranja
+1258,"Capuchino,Galleta de Avena"
+1259,"Pan de Bono,Tinto"
+1260,Capuchino
+1261,"Empanada,Tinto"
+1262,"Empanada,Tinto"
+1263,"Capuchino,Tinto"
+1264,"Galleta de Avena,Latte"
+1265,"Latte,Torta de Chocolate"
+1266,"Empanada,Tinto"
+1267,"Pan de Bono,Empanada,Tinto"
+1268,Jugo de Naranja
+1269,"Empanada,Tinto,Jugo de Naranja"
+1270,"Capuchino,Tinto,Galleta de Avena"
+1271,Latte
+1272,Latte
+1273,"Galleta de Avena,Empanada,Tinto"
+1274,"Agua,Empanada"
+1275,"Capuchino,Galleta de Avena"
+1276,"Capuchino,Tinto"
+1277,Capuchino
+1278,"Empanada,Jugo de Naranja"
+1279,"Pan de Bono,Tinto,Galleta de Avena"
+1280,Latte
+1281,Latte
+1282,"Empanada,Tinto"
+1283,"Galleta de Avena,Jugo de Naranja"
+1284,"Capuchino,Galleta de Avena"
+1285,"Latte,Torta de Chocolate"
+1286,Jugo de Naranja
+1287,"Pan de Bono,Tinto"
+1288,"Pan de Bono,Jugo de Naranja"
+1289,Agua
+1290,Tinto
+1291,Jugo de Naranja
+1292,"Empanada,Tinto"
+1293,Jugo de Naranja
+1294,"Capuchino,Empanada,Tinto"
+1295,"Empanada,Tinto"
+1296,Capuchino
+1297,"Pan de Bono,Tinto"
+1298,"Tinto,Latte"
+1299,"Pan de Bono,Tinto"
+1300,Capuchino
+1301,"Latte,Torta de Chocolate"
+1302,"Jugo de Naranja,Torta de Chocolate"
+1303,Capuchino
+1304,"Agua,Empanada"
+1305,"Galleta de Avena,Agua"
+1306,Latte
+1307,Capuchino
+1308,"Empanada,Tinto"
+1309,Capuchino
+1310,"Pan de Bono,Tinto"
+1311,"Pan de Bono,Jugo de Naranja"
+1312,Agua
+1313,"Empanada,Tinto"
+1314,"Pan de Bono,Tinto"
+1315,"Capuchino,Galleta de Avena"
+1316,Capuchino
+1317,"Capuchino,Torta de Chocolate"
+1318,"Galleta de Avena,Latte"
+1319,"Galleta de Avena,Empanada,Tinto"
+1320,Capuchino
+1321,Agua
+1322,"Pan de Bono,Tinto"
+1323,Tinto
+1324,Jugo de Naranja
+1325,"Latte,Torta de Chocolate"
+1326,"Pan de Bono,Tinto"
+1327,"Pan de Bono,Agua"
+1328,Jugo de Naranja
+1329,Agua
+1330,Tinto
+1331,"Pan de Bono,Tinto"
+1332,"Empanada,Tinto"
+1333,"Latte,Torta de Chocolate"
+1334,Jugo de Naranja
+1335,"Empanada,Tinto"
+1336,"Galleta de Avena,Agua"
+1337,Tinto
+1338,"Empanada,Tinto"
+1339,"Agua,Empanada"
+1340,"Galleta de Avena,Empanada,Tinto"
+1341,"Empanada,Tinto"
+1342,"Capuchino,Galleta de Avena"
+1343,"Galleta de Avena,Jugo de Naranja"
+1344,"Empanada,Tinto"
+1345,Jugo de Naranja
+1346,"Agua,Latte"
+1347,"Galleta de Avena,Latte"
+1348,Tinto
+1349,"Empanada,Tinto"
+1350,Jugo de Naranja
+1351,"Agua,Empanada"
+1352,Latte
+1353,Agua
+1354,Latte
+1355,Jugo de Naranja
+1356,"Pan de Bono,Tinto"
+1357,"Galleta de Avena,Latte"
+1358,"Empanada,Jugo de Naranja"
+1359,Tinto
+1360,"Latte,Torta de Chocolate"
+1361,"Galleta de Avena,Agua,Latte"
+1362,"Capuchino,Agua"
+1363,Jugo de Naranja
+1364,"Pan de Bono,Tinto"
+1365,Agua
+1366,"Galleta de Avena,Latte"
+1367,"Pan de Bono,Tinto,Torta de Chocolate"
+1368,"Tinto,Jugo de Naranja"
+1369,Agua
+1370,"Capuchino,Galleta de Avena"
+1371,"Empanada,Tinto"
+1372,"Empanada,Tinto"
+1373,Latte
+1374,"Agua,Torta de Chocolate"
+1375,"Capuchino,Galleta de Avena"
+1376,"Empanada,Tinto"
+1377,"Agua,Empanada"
+1378,"Agua,Empanada"
+1379,Latte
+1380,"Empanada,Tinto"
+1381,"Pan de Bono,Tinto"
+1382,"Latte,Torta de Chocolate"
+1383,Latte
+1384,"Pan de Bono,Tinto"
+1385,"Empanada,Tinto"
+1386,Tinto
+1387,Tinto
+1388,Agua
+1389,"Empanada,Tinto"
+1390,"Empanada,Tinto"
+1391,Capuchino
+1392,"Pan de Bono,Tinto"
+1393,"Galleta de Avena,Latte"
+1394,Tinto
+1395,"Latte,Torta de Chocolate"
+1396,"Pan de Bono,Tinto"
+1397,"Capuchino,Pan de Bono,Galleta de Avena"
+1398,Tinto
+1399,"Latte,Torta de Chocolate"
+1400,Agua
+1401,"Pan de Bono,Tinto"
+1402,Agua
+1403,Tinto
+1404,Tinto
+1405,"Pan de Bono,Latte"
+1406,"Empanada,Tinto"
+1407,Agua
+1408,"Pan de Bono,Agua"
+1409,"Pan de Bono,Tinto"
+1410,Tinto
+1411,Latte
+1412,Agua
+1413,"Pan de Bono,Tinto"
+1414,"Capuchino,Jugo de Naranja"
+1415,"Pan de Bono,Agua,Tinto"
+1416,Jugo de Naranja
+1417,Agua
+1418,"Pan de Bono,Tinto"
+1419,"Pan de Bono,Tinto"
+1420,Tinto
+1421,"Agua,Empanada"
+1422,"Empanada,Jugo de Naranja"
+1423,"Empanada,Tinto"
+1424,"Capuchino,Empanada,Tinto"
+1425,Tinto
+1426,Jugo de Naranja
+1427,"Capuchino,Galleta de Avena"
+1428,"Capuchino,Latte,Torta de Chocolate"
+1429,"Capuchino,Galleta de Avena"
+1430,Agua
+1431,"Pan de Bono,Tinto,Capuchino"
+1432,"Capuchino,Galleta de Avena"
+1433,"Latte,Torta de Chocolate"
+1434,"Empanada,Tinto"
+1435,Latte
+1436,Jugo de Naranja
+1437,Agua
+1438,"Empanada,Jugo de Naranja"
+1439,"Pan de Bono,Empanada,Tinto"
+1440,"Pan de Bono,Agua"
+1441,"Latte,Torta de Chocolate"
+1442,Latte
+1443,"Jugo de Naranja,Torta de Chocolate"
+1444,"Galleta de Avena,Jugo de Naranja"
+1445,"Pan de Bono,Tinto"
+1446,Agua
+1447,"Latte,Torta de Chocolate"
+1448,"Empanada,Tinto"
+1449,Jugo de Naranja
+1450,Agua
+1451,"Capuchino,Pan de Bono,Galleta de Avena"
+1452,"Pan de Bono,Jugo de Naranja"
+1453,"Empanada,Jugo de Naranja,Tinto"
+1454,"Capuchino,Torta de Chocolate"
+1455,"Pan de Bono,Empanada,Tinto"
+1456,Tinto
+1457,"Latte,Torta de Chocolate"
+1458,"Latte,Torta de Chocolate"
+1459,Capuchino
+1460,Latte
+1461,Agua
+1462,"Empanada,Tinto"
+1463,"Galleta de Avena,Tinto"
+1464,Agua
+1465,"Pan de Bono,Tinto"
+1466,"Pan de Bono,Empanada,Tinto"
+1467,"Pan de Bono,Tinto"
+1468,Tinto
+1469,"Galleta de Avena,Latte"
+1470,Jugo de Naranja
+1471,Tinto
+1472,"Pan de Bono,Tinto"
+1473,"Empanada,Tinto"
+1474,"Galleta de Avena,Latte"
+1475,Capuchino
+1476,Agua
+1477,"Capuchino,Agua"
+1478,"Agua,Empanada"
+1479,Tinto
+1480,"Galleta de Avena,Latte"
+1481,"Galleta de Avena,Agua,Latte"
+1482,"Capuchino,Torta de Chocolate"
+1483,"Capuchino,Latte,Torta de Chocolate"
+1484,"Galleta de Avena,Empanada,Tinto"
+1485,"Capuchino,Agua,Galleta de Avena"
+1486,"Pan de Bono,Agua"
+1487,Jugo de Naranja
+1488,"Empanada,Tinto"
+1489,"Empanada,Tinto"
+1490,Capuchino
+1491,Capuchino
+1492,Jugo de Naranja
+1493,"Capuchino,Jugo de Naranja"
+1494,"Latte,Torta de Chocolate"
+1495,"Pan de Bono,Jugo de Naranja"
+1496,Agua
+1497,Tinto
+1498,Jugo de Naranja
+1499,"Pan de Bono,Tinto"
+1500,Latte
+1501,Tinto
+1502,"Capuchino,Galleta de Avena,Jugo de Naranja"
+1503,"Empanada,Tinto"
+1504,"Empanada,Tinto"
+1505,Tinto
+1506,"Galleta de Avena,Latte"
+1507,"Pan de Bono,Jugo de Naranja"
+1508,"Empanada,Latte,Torta de Chocolate"
+1509,"Galleta de Avena,Latte,Torta de Chocolate"
+1510,"Latte,Torta de Chocolate"
+1511,"Empanada,Tinto"
+1512,"Pan de Bono,Tinto"
+1513,"Capuchino,Torta de Chocolate"
+1514,"Empanada,Tinto"
+1515,"Empanada,Tinto"
+1516,"Agua,Empanada"
+1517,"Capuchino,Torta de Chocolate"
+1518,Agua
+1519,Agua
+1520,Jugo de Naranja
+1521,"Galleta de Avena,Latte"
+1522,"Empanada,Tinto"
+1523,Agua
+1524,"Pan de Bono,Tinto"
+1525,Capuchino
+1526,Agua
+1527,Tinto
+1528,Capuchino
+1529,"Galleta de Avena,Latte"
+1530,"Galleta de Avena,Latte"
+1531,"Empanada,Jugo de Naranja"
+1532,"Pan de Bono,Tinto"
+1533,Latte
+1534,"Pan de Bono,Jugo de Naranja"
+1535,Jugo de Naranja
+1536,"Capuchino,Jugo de Naranja"
+1537,"Tinto,Latte"
+1538,"Pan de Bono,Tinto"
+1539,"Empanada,Tinto"
+1540,"Tinto,Torta de Chocolate"
+1541,Capuchino
+1542,"Capuchino,Galleta de Avena"
+1543,"Pan de Bono,Tinto,Jugo de Naranja"
+1544,Tinto
+1545,"Latte,Torta de Chocolate"
+1546,Jugo de Naranja
+1547,"Galleta de Avena,Latte"
+1548,"Galleta de Avena,Latte"
+1549,Tinto
+1550,Agua
+1551,"Galleta de Avena,Latte,Torta de Chocolate"
+1552,"Latte,Torta de Chocolate"
+1553,Latte
+1554,"Capuchino,Galleta de Avena"
+1555,Tinto
+1556,Jugo de Naranja
+1557,Agua
+1558,"Agua,Tinto"
+1559,"Pan de Bono,Jugo de Naranja"
+1560,Tinto
+1561,"Capuchino,Agua"
+1562,"Empanada,Tinto"
+1563,Agua
+1564,Tinto
+1565,Tinto
+1566,Tinto
+1567,"Pan de Bono,Jugo de Naranja"
+1568,"Latte,Torta de Chocolate"
+1569,Jugo de Naranja
+1570,"Capuchino,Galleta de Avena"
+1571,Tinto
+1572,"Capuchino,Galleta de Avena"
+1573,"Latte,Jugo de Naranja"
+1574,Jugo de Naranja
+1575,Latte
+1576,Tinto
+1577,Latte
+1578,"Latte,Torta de Chocolate"
+1579,Jugo de Naranja
+1580,Latte
+1581,Tinto
+1582,Latte
+1583,Latte
+1584,"Pan de Bono,Latte,Jugo de Naranja"
+1585,Capuchino
+1586,Jugo de Naranja
+1587,"Pan de Bono,Agua"
+1588,"Tinto,Jugo de Naranja"
+1589,"Capuchino,Torta de Chocolate"
+1590,"Pan de Bono,Tinto"
+1591,"Galleta de Avena,Latte"
+1592,Agua
+1593,"Pan de Bono,Tinto,Torta de Chocolate"
+1594,Jugo de Naranja
+1595,"Empanada,Jugo de Naranja"
+1596,"Pan de Bono,Tinto"
+1597,"Empanada,Tinto"
+1598,"Pan de Bono,Tinto"
+1599,Tinto
+1600,"Pan de Bono,Tinto"
+1601,Latte
+1602,"Agua,Empanada"
+1603,"Pan de Bono,Tinto"
+1604,"Pan de Bono,Tinto"
+1605,"Agua,Jugo de Naranja"
+1606,"Empanada,Tinto"
+1607,"Pan de Bono,Jugo de Naranja"
+1608,"Empanada,Tinto"
+1609,"Galleta de Avena,Agua,Latte"
+1610,"Capuchino,Pan de Bono,Galleta de Avena"
+1611,Jugo de Naranja
+1612,"Capuchino,Galleta de Avena"
+1613,"Pan de Bono,Tinto,Jugo de Naranja"
+1614,Tinto
+1615,Tinto
+1616,Tinto
+1617,"Agua,Empanada"
+1618,Jugo de Naranja
+1619,"Pan de Bono,Tinto"
+1620,"Capuchino,Torta de Chocolate"
+1621,"Pan de Bono,Tinto"
+1622,"Capuchino,Tinto"
+1623,"Tinto,Latte"
+1624,"Latte,Torta de Chocolate"
+1625,Agua
+1626,"Pan de Bono,Agua,Tinto"
+1627,"Pan de Bono,Agua"
+1628,Agua
+1629,"Empanada,Tinto"
+1630,"Empanada,Tinto"
+1631,"Pan de Bono,Agua,Jugo de Naranja"
+1632,Tinto
+1633,Jugo de Naranja
+1634,"Agua,Empanada"
+1635,"Pan de Bono,Jugo de Naranja"
+1636,Agua
+1637,Jugo de Naranja
+1638,"Latte,Torta de Chocolate"
+1639,"Pan de Bono,Jugo de Naranja"
+1640,Tinto
+1641,"Capuchino,Torta de Chocolate"
+1642,"Empanada,Tinto"
+1643,"Pan de Bono,Tinto"
+1644,"Capuchino,Galleta de Avena"
+1645,"Capuchino,Pan de Bono,Galleta de Avena"
+1646,Agua
+1647,"Tinto,Jugo de Naranja"
+1648,"Empanada,Jugo de Naranja"
+1649,"Pan de Bono,Tinto,Jugo de Naranja"
+1650,"Pan de Bono,Tinto"
+1651,"Capuchino,Tinto"
+1652,"Pan de Bono,Tinto,Torta de Chocolate"
+1653,"Tinto,Jugo de Naranja"
+1654,Agua
+1655,"Latte,Torta de Chocolate"
+1656,"Capuchino,Torta de Chocolate"
+1657,"Galleta de Avena,Latte"
+1658,Capuchino
+1659,Agua
+1660,"Galleta de Avena,Latte"
+1661,"Pan de Bono,Empanada,Tinto"
+1662,Tinto
+1663,"Pan de Bono,Jugo de Naranja"
+1664,Tinto
+1665,Tinto
+1666,Agua
+1667,"Pan de Bono,Jugo de Naranja"
+1668,Capuchino
+1669,"Capuchino,Torta de Chocolate"
+1670,"Agua,Tinto"
+1671,"Pan de Bono,Tinto,Galleta de Avena"
+1672,Tinto
+1673,Tinto
+1674,"Agua,Empanada"
+1675,Jugo de Naranja
+1676,Agua
+1677,"Latte,Torta de Chocolate"
+1678,Agua
+1679,Capuchino
+1680,"Agua,Empanada"
+1681,"Agua,Empanada"
+1682,Agua
+1683,Capuchino
+1684,"Galleta de Avena,Jugo de Naranja"
+1685,Tinto
+1686,Jugo de Naranja
+1687,Agua
+1688,"Empanada,Tinto"
+1689,Jugo de Naranja
+1690,Agua
+1691,Capuchino
+1692,"Capuchino,Torta de Chocolate"
+1693,"Empanada,Tinto"
+1694,"Capuchino,Empanada,Tinto"
+1695,"Capuchino,Galleta de Avena"
+1696,Capuchino
+1697,"Pan de Bono,Tinto"
+1698,Latte
+1699,"Empanada,Tinto,Torta de Chocolate"
+1700,"Empanada,Tinto"
+1701,"Pan de Bono,Tinto"
+1702,Tinto
+1703,"Pan de Bono,Agua,Jugo de Naranja"
+1704,"Empanada,Tinto"
+1705,Tinto
+1706,"Pan de Bono,Tinto,Torta de Chocolate"
+1707,Agua
+1708,Latte
+1709,"Latte,Torta de Chocolate"
+1710,Tinto
+1711,"Capuchino,Latte,Galleta de Avena"
+1712,"Pan de Bono,Jugo de Naranja"
+1713,"Empanada,Tinto"
+1714,Tinto
+1715,"Empanada,Tinto"
+1716,Capuchino
+1717,"Capuchino,Latte,Torta de Chocolate"
+1718,Jugo de Naranja
+1719,"Pan de Bono,Agua"
+1720,"Capuchino,Torta de Chocolate"
+1721,"Galleta de Avena,Latte"
+1722,"Empanada,Tinto"
+1723,Tinto
+1724,"Pan de Bono,Tinto"
+1725,"Empanada,Tinto"
+1726,Tinto
+1727,"Empanada,Tinto"
+1728,Agua
+1729,"Empanada,Tinto,Agua"
+1730,"Empanada,Jugo de Naranja"
+1731,"Empanada,Tinto"
+1732,Tinto
+1733,Capuchino
+1734,"Galleta de Avena,Latte"
+1735,"Empanada,Tinto"
+1736,"Pan de Bono,Latte,Torta de Chocolate"
+1737,Jugo de Naranja
+1738,Capuchino
+1739,Latte
+1740,"Capuchino,Galleta de Avena"
+1741,Agua
+1742,"Empanada,Tinto"
+1743,"Latte,Torta de Chocolate"
+1744,"Galleta de Avena,Latte"
+1745,"Empanada,Tinto"
+1746,Agua
+1747,"Capuchino,Torta de Chocolate"
+1748,Agua
+1749,Agua
+1750,Latte
+1751,Jugo de Naranja
+1752,Latte
+1753,Capuchino
+1754,"Pan de Bono,Tinto"
+1755,Jugo de Naranja
+1756,"Capuchino,Galleta de Avena"
+1757,"Pan de Bono,Agua"
+1758,"Pan de Bono,Tinto"
+1759,"Empanada,Tinto"
+1760,"Capuchino,Torta de Chocolate"
+1761,"Agua,Empanada"
+1762,"Capuchino,Empanada,Torta de Chocolate"
+1763,Tinto
+1764,Tinto
+1765,"Empanada,Tinto"
+1766,"Agua,Empanada"
+1767,Agua
+1768,"Pan de Bono,Tinto"
+1769,"Pan de Bono,Agua"
+1770,"Pan de Bono,Tinto"
+1771,Tinto
+1772,Tinto
+1773,Tinto
+1774,Tinto
+1775,"Capuchino,Torta de Chocolate"
+1776,"Pan de Bono,Tinto"
+1777,"Capuchino,Galleta de Avena"
+1778,Capuchino
+1779,"Empanada,Tinto"
+1780,"Pan de Bono,Tinto"
+1781,"Capuchino,Torta de Chocolate"
+1782,"Pan de Bono,Tinto"
+1783,"Empanada,Jugo de Naranja"
+1784,Latte
+1785,"Pan de Bono,Tinto,Galleta de Avena"
+1786,"Capuchino,Agua"
+1787,"Agua,Empanada"
+1788,Tinto
+1789,Latte
+1790,Capuchino
+1791,Agua
+1792,Jugo de Naranja
+1793,"Pan de Bono,Tinto"
+1794,"Agua,Torta de Chocolate"
+1795,"Empanada,Tinto"
+1796,Tinto
+1797,"Capuchino,Torta de Chocolate"
+1798,Jugo de Naranja
+1799,"Pan de Bono,Agua"
+1800,"Capuchino,Galleta de Avena,Jugo de Naranja"
+1801,"Capuchino,Agua,Galleta de Avena"
+1802,Jugo de Naranja
+1803,"Pan de Bono,Tinto"
+1804,Agua
+1805,Tinto
+1806,"Empanada,Jugo de Naranja"
+1807,"Galleta de Avena,Latte"
+1808,"Pan de Bono,Empanada,Tinto"
+1809,"Galleta de Avena,Latte,Torta de Chocolate"
+1810,"Pan de Bono,Agua"
+1811,"Pan de Bono,Tinto,Jugo de Naranja"
+1812,"Pan de Bono,Tinto"
+1813,Agua
+1814,Latte
+1815,"Empanada,Tinto"
+1816,Agua
+1817,Capuchino
+1818,Tinto
+1819,"Pan de Bono,Tinto,Latte"
+1820,"Latte,Torta de Chocolate,Jugo de Naranja"
+1821,"Tinto,Torta de Chocolate"
+1822,"Pan de Bono,Tinto"
+1823,"Capuchino,Tinto"
+1824,Latte
+1825,"Capuchino,Latte"
+1826,"Empanada,Tinto"
+1827,Tinto
+1828,Agua
+1829,"Agua,Tinto"
+1830,Tinto
+1831,"Pan de Bono,Jugo de Naranja"
+1832,Jugo de Naranja
+1833,Agua
+1834,Latte
+1835,Latte
+1836,"Pan de Bono,Tinto,Latte"
+1837,"Agua,Empanada"
+1838,"Galleta de Avena,Tinto"
+1839,Tinto
+1840,"Pan de Bono,Agua"
+1841,"Empanada,Tinto"
+1842,"Agua,Empanada"
+1843,Tinto
+1844,Capuchino
+1845,Capuchino
+1846,"Pan de Bono,Tinto,Latte"
+1847,Jugo de Naranja
+1848,"Capuchino,Galleta de Avena"
+1849,"Pan de Bono,Jugo de Naranja"
+1850,Agua
+1851,Tinto
+1852,"Pan de Bono,Tinto"
+1853,"Pan de Bono,Empanada,Tinto"
+1854,Agua
+1855,Agua
+1856,"Pan de Bono,Jugo de Naranja"
+1857,Jugo de Naranja
+1858,Tinto
+1859,"Empanada,Tinto,Agua"
+1860,Agua
+1861,"Agua,Latte"
+1862,"Pan de Bono,Tinto"
+1863,"Pan de Bono,Tinto"
+1864,"Capuchino,Galleta de Avena"
+1865,"Pan de Bono,Jugo de Naranja,Capuchino"
+1866,Tinto
+1867,Capuchino
+1868,"Latte,Torta de Chocolate"
+1869,"Pan de Bono,Tinto"
+1870,"Capuchino,Torta de Chocolate"
+1871,"Capuchino,Galleta de Avena"
+1872,Jugo de Naranja
+1873,"Empanada,Tinto"
+1874,"Empanada,Tinto"
+1875,Tinto
+1876,"Pan de Bono,Tinto"
+1877,"Pan de Bono,Agua,Empanada"
+1878,"Latte,Torta de Chocolate"
+1879,Capuchino
+1880,"Capuchino,Agua"
+1881,"Empanada,Tinto"
+1882,"Pan de Bono,Tinto,Capuchino"
+1883,Agua
+1884,"Capuchino,Galleta de Avena"
+1885,"Empanada,Jugo de Naranja"
+1886,"Pan de Bono,Agua,Torta de Chocolate"
+1887,Agua
+1888,"Capuchino,Torta de Chocolate"
+1889,"Capuchino,Jugo de Naranja"
+1890,Jugo de Naranja
+1891,Agua
+1892,"Empanada,Tinto"
+1893,"Empanada,Tinto,Agua"
+1894,"Latte,Torta de Chocolate"
+1895,"Latte,Jugo de Naranja"
+1896,Tinto
+1897,"Galleta de Avena,Agua"
+1898,"Pan de Bono,Tinto"
+1899,"Galleta de Avena,Latte"
+1900,"Pan de Bono,Tinto"
+1901,Latte
+1902,"Capuchino,Galleta de Avena"
+1903,"Capuchino,Galleta de Avena"
+1904,"Empanada,Tinto"
+1905,"Capuchino,Torta de Chocolate"
+1906,"Empanada,Tinto"
+1907,"Pan de Bono,Tinto"
+1908,Latte
+1909,"Capuchino,Tinto,Galleta de Avena"
+1910,"Pan de Bono,Tinto"
+1911,"Pan de Bono,Tinto,Latte"
+1912,"Latte,Torta de Chocolate"
+1913,Agua
+1914,"Latte,Jugo de Naranja"
+1915,Capuchino
+1916,"Empanada,Tinto"
+1917,"Pan de Bono,Tinto"
+1918,Latte
+1919,Tinto
+1920,"Empanada,Jugo de Naranja"
+1921,Capuchino
+1922,"Latte,Torta de Chocolate"
+1923,Latte
+1924,"Capuchino,Galleta de Avena"
+1925,Tinto
+1926,"Agua,Empanada"
+1927,Jugo de Naranja
+1928,Tinto
+1929,"Empanada,Tinto"
+1930,Latte
+1931,"Empanada,Tinto,Agua"
+1932,Latte
+1933,Agua
+1934,"Capuchino,Agua,Torta de Chocolate"
+1935,Latte
+1936,"Capuchino,Torta de Chocolate"
+1937,Agua
+1938,"Pan de Bono,Tinto"
+1939,Agua
+1940,Jugo de Naranja
+1941,"Galleta de Avena,Agua,Latte"
+1942,Capuchino
+1943,"Pan de Bono,Empanada,Tinto"
+1944,Agua
+1945,"Pan de Bono,Tinto"
+1946,"Galleta de Avena,Latte"
+1947,Agua
+1948,"Pan de Bono,Tinto"
+1949,Latte
+1950,Agua
+1951,Capuchino
+1952,Latte
+1953,"Latte,Torta de Chocolate"
+1954,"Empanada,Tinto"
+1955,Tinto
+1956,"Empanada,Tinto,Latte"
+1957,"Galleta de Avena,Pan de Bono,Latte"
+1958,"Capuchino,Torta de Chocolate"
+1959,"Pan de Bono,Tinto"
+1960,"Capuchino,Tinto"
+1961,Latte
+1962,Capuchino
+1963,Tinto
+1964,"Galleta de Avena,Latte"
+1965,"Pan de Bono,Jugo de Naranja"
+1966,"Latte,Torta de Chocolate"
+1967,"Empanada,Tinto"
+1968,"Pan de Bono,Tinto"
+1969,"Galleta de Avena,Latte"
+1970,"Galleta de Avena,Latte"
+1971,"Galleta de Avena,Latte"
+1972,"Pan de Bono,Tinto"
+1973,Jugo de Naranja
+1974,Tinto
+1975,"Capuchino,Agua,Galleta de Avena"
+1976,Latte
+1977,"Capuchino,Empanada,Torta de Chocolate"
+1978,"Capuchino,Galleta de Avena"
+1979,"Empanada,Tinto"
+1980,Latte
+1981,"Pan de Bono,Tinto"
+1982,"Empanada,Tinto"
+1983,"Capuchino,Galleta de Avena"
+1984,Jugo de Naranja
+1985,Latte
+1986,"Empanada,Tinto"
+1987,"Galleta de Avena,Latte"
+1988,"Agua,Tinto"
+1989,"Empanada,Tinto"
+1990,"Pan de Bono,Jugo de Naranja,Capuchino"
+1991,"Agua,Jugo de Naranja"
+1992,"Capuchino,Jugo de Naranja,Torta de Chocolate"
+1993,"Empanada,Tinto"
+1994,"Pan de Bono,Tinto,Torta de Chocolate"
+1995,Agua
+1996,Agua
+1997,"Empanada,Tinto"
+1998,Latte
+1999,"Empanada,Tinto"
+2000,"Pan de Bono,Tinto"
+2001,Jugo de Naranja
+2002,Tinto
+2003,Capuchino
+2004,"Capuchino,Torta de Chocolate"
+2005,"Galleta de Avena,Latte"
+2006,"Pan de Bono,Tinto"
+2007,"Pan de Bono,Agua"
+2008,"Empanada,Jugo de Naranja"
+2009,Latte
+2010,"Pan de Bono,Tinto,Capuchino"
+2011,"Empanada,Tinto"
+2012,"Empanada,Tinto"
+2013,Latte
+2014,"Agua,Empanada,Jugo de Naranja"
+2015,"Pan de Bono,Tinto"
+2016,"Pan de Bono,Tinto"
+2017,Tinto
+2018,Jugo de Naranja
+2019,"Capuchino,Galleta de Avena"
+2020,Tinto
+2021,"Capuchino,Tinto,Galleta de Avena"
+2022,Jugo de Naranja
+2023,"Capuchino,Galleta de Avena"
+2024,"Pan de Bono,Tinto"
+2025,"Capuchino,Torta de Chocolate"
+2026,Latte
+2027,"Capuchino,Torta de Chocolate"
+2028,Jugo de Naranja
+2029,Latte
+2030,"Empanada,Tinto"
+2031,"Empanada,Tinto"
+2032,"Latte,Torta de Chocolate"
+2033,"Pan de Bono,Tinto,Latte"
+2034,"Galleta de Avena,Agua,Latte"
+2035,"Pan de Bono,Tinto"
+2036,"Empanada,Tinto"
+2037,"Galleta de Avena,Latte"
+2038,"Empanada,Tinto"
+2039,"Pan de Bono,Tinto,Latte"
+2040,"Pan de Bono,Tinto"
+2041,"Empanada,Tinto"
+2042,"Latte,Torta de Chocolate"
+2043,Tinto
+2044,"Capuchino,Torta de Chocolate"
+2045,Agua
+2046,"Pan de Bono,Tinto"
+2047,Jugo de Naranja
+2048,Tinto
+2049,"Pan de Bono,Tinto"
+2050,Agua
+2051,Latte
+2052,Tinto
+2053,"Capuchino,Galleta de Avena"
+2054,Agua
+2055,Latte
+2056,Tinto
+2057,Tinto
+2058,Tinto
+2059,Capuchino
+2060,"Empanada,Tinto"
+2061,"Pan de Bono,Jugo de Naranja"
+2062,"Pan de Bono,Tinto"
+2063,Jugo de Naranja
+2064,"Empanada,Tinto"
+2065,Tinto
+2066,"Capuchino,Galleta de Avena,Jugo de Naranja"
+2067,"Empanada,Tinto"
+2068,"Pan de Bono,Agua"
+2069,Jugo de Naranja
+2070,"Empanada,Tinto"
+2071,"Pan de Bono,Tinto,Jugo de Naranja"
+2072,"Pan de Bono,Jugo de Naranja"
+2073,"Empanada,Tinto"
+2074,"Pan de Bono,Tinto"
+2075,Capuchino
+2076,"Pan de Bono,Tinto"
+2077,"Pan de Bono,Jugo de Naranja"
+2078,"Tinto,Jugo de Naranja"
+2079,"Galleta de Avena,Latte"
+2080,"Empanada,Tinto"
+2081,Agua
+2082,"Pan de Bono,Jugo de Naranja,Capuchino"
+2083,"Pan de Bono,Tinto"
+2084,Jugo de Naranja
+2085,"Empanada,Tinto"
+2086,"Capuchino,Galleta de Avena"
+2087,Capuchino
+2088,Tinto
+2089,"Pan de Bono,Tinto"
+2090,"Capuchino,Empanada,Torta de Chocolate"
+2091,"Latte,Jugo de Naranja"
+2092,"Pan de Bono,Tinto"
+2093,"Capuchino,Galleta de Avena"
+2094,"Pan de Bono,Jugo de Naranja"
+2095,"Empanada,Tinto"
+2096,"Empanada,Tinto"
+2097,Latte
+2098,"Empanada,Tinto"
+2099,"Pan de Bono,Tinto,Jugo de Naranja"
+2100,"Capuchino,Torta de Chocolate"
+2101,"Empanada,Tinto"
+2102,"Pan de Bono,Tinto"
+2103,Tinto
+2104,Tinto
+2105,Tinto
+2106,"Pan de Bono,Tinto,Latte"
+2107,Agua
+2108,Latte
+2109,"Latte,Torta de Chocolate"
+2110,Tinto
+2111,"Capuchino,Torta de Chocolate"
+2112,"Galleta de Avena,Empanada,Tinto"
+2113,"Pan de Bono,Agua"
+2114,"Pan de Bono,Tinto"
+2115,Agua
+2116,"Capuchino,Galleta de Avena"
+2117,Agua
+2118,"Agua,Jugo de Naranja"
+2119,Agua
+2120,"Capuchino,Galleta de Avena"
+2121,Jugo de Naranja
+2122,Agua
+2123,"Empanada,Tinto"
+2124,Agua
+2125,Capuchino
+2126,"Agua,Latte,Torta de Chocolate"
+2127,"Galleta de Avena,Empanada,Tinto"
+2128,"Capuchino,Torta de Chocolate"
+2129,Capuchino
+2130,"Pan de Bono,Agua"
+2131,Jugo de Naranja
+2132,Agua
+2133,Tinto
+2134,Latte
+2135,"Pan de Bono,Tinto"
+2136,"Galleta de Avena,Tinto"
+2137,Jugo de Naranja
+2138,"Empanada,Tinto"
+2139,"Pan de Bono,Tinto"
+2140,"Pan de Bono,Tinto,Latte"
+2141,"Pan de Bono,Tinto"
+2142,"Latte,Torta de Chocolate,Jugo de Naranja"
+2143,Jugo de Naranja
+2144,Capuchino
+2145,"Empanada,Tinto"
+2146,Jugo de Naranja
+2147,"Pan de Bono,Tinto"
+2148,"Pan de Bono,Tinto"
+2149,"Capuchino,Torta de Chocolate"
+2150,"Galleta de Avena,Latte"
+2151,Latte
+2152,"Latte,Torta de Chocolate"
+2153,"Pan de Bono,Tinto"
+2154,Capuchino
+2155,"Galleta de Avena,Latte"
+2156,"Empanada,Jugo de Naranja"
+2157,"Empanada,Tinto"
+2158,"Empanada,Tinto"
+2159,"Jugo de Naranja,Torta de Chocolate"
+2160,Agua
+2161,"Galleta de Avena,Latte"
+2162,"Galleta de Avena,Latte"
+2163,"Empanada,Tinto"
+2164,"Empanada,Tinto"
+2165,"Agua,Empanada"
+2166,Tinto
+2167,"Agua,Empanada"
+2168,Agua
+2169,Tinto
+2170,"Pan de Bono,Agua,Torta de Chocolate"
+2171,Jugo de Naranja
+2172,"Pan de Bono,Tinto,Galleta de Avena"
+2173,"Capuchino,Agua"
+2174,"Empanada,Jugo de Naranja"
+2175,"Empanada,Jugo de Naranja"
+2176,"Capuchino,Empanada,Torta de Chocolate"
+2177,Tinto
+2178,"Empanada,Tinto"
+2179,"Pan de Bono,Tinto"
+2180,"Pan de Bono,Tinto"
+2181,"Pan de Bono,Tinto"
+2182,"Pan de Bono,Jugo de Naranja"
+2183,"Pan de Bono,Tinto"
+2184,"Empanada,Tinto"
+2185,Agua
+2186,Jugo de Naranja
+2187,"Capuchino,Empanada,Galleta de Avena"
+2188,"Empanada,Latte,Torta de Chocolate"
+2189,"Pan de Bono,Agua"
+2190,"Capuchino,Agua"
+2191,"Pan de Bono,Tinto"
+2192,"Pan de Bono,Tinto"
+2193,Jugo de Naranja
+2194,Agua
+2195,Capuchino
+2196,Tinto
+2197,Agua
+2198,"Capuchino,Galleta de Avena"
+2199,"Empanada,Tinto"
+2200,Jugo de Naranja
+2201,"Latte,Torta de Chocolate"
+2202,Jugo de Naranja
+2203,"Galleta de Avena,Latte,Torta de Chocolate"
+2204,Tinto
+2205,Agua
+2206,Jugo de Naranja
+2207,"Agua,Empanada"
+2208,"Pan de Bono,Agua"
+2209,Tinto
+2210,"Empanada,Tinto"
+2211,"Pan de Bono,Tinto,Jugo de Naranja"
+2212,"Agua,Latte"
+2213,"Pan de Bono,Tinto,Galleta de Avena"
+2214,"Capuchino,Galleta de Avena"
+2215,Agua
+2216,"Tinto,Latte,Torta de Chocolate"
+2217,Capuchino
+2218,"Agua,Empanada"
+2219,Jugo de Naranja
+2220,Tinto
+2221,"Capuchino,Agua"
+2222,"Pan de Bono,Tinto"
+2223,Latte
+2224,"Capuchino,Galleta de Avena"
+2225,"Empanada,Tinto"
+2226,Tinto
+2227,"Pan de Bono,Agua"
+2228,Latte
+2229,"Pan de Bono,Tinto"
+2230,"Empanada,Tinto"
+2231,Tinto
+2232,Jugo de Naranja
+2233,Tinto
+2234,"Pan de Bono,Tinto"
+2235,"Pan de Bono,Tinto"
+2236,Agua
+2237,"Capuchino,Empanada,Galleta de Avena"
+2238,"Pan de Bono,Jugo de Naranja"
+2239,Tinto
+2240,Latte
+2241,"Galleta de Avena,Empanada,Tinto"
+2242,"Pan de Bono,Agua,Tinto"
+2243,Latte
+2244,"Pan de Bono,Tinto"
+2245,Latte
+2246,Jugo de Naranja
+2247,Agua
+2248,Jugo de Naranja
+2249,"Galleta de Avena,Latte"
+2250,"Pan de Bono,Tinto"
+2251,Capuchino
+2252,"Empanada,Jugo de Naranja"
+2253,Jugo de Naranja
+2254,"Pan de Bono,Tinto"
+2255,Agua
+2256,"Latte,Torta de Chocolate"
+2257,"Pan de Bono,Tinto"
+2258,Jugo de Naranja
+2259,"Pan de Bono,Agua"
+2260,"Galleta de Avena,Jugo de Naranja"
+2261,"Empanada,Jugo de Naranja"
+2262,"Empanada,Tinto"
+2263,"Pan de Bono,Agua"
+2264,"Galleta de Avena,Latte"
+2265,"Galleta de Avena,Jugo de Naranja"
+2266,"Empanada,Tinto"
+2267,"Pan de Bono,Tinto"
+2268,"Pan de Bono,Agua"
+2269,"Pan de Bono,Tinto"
+2270,Latte
+2271,"Galleta de Avena,Latte"
+2272,"Pan de Bono,Tinto"
+2273,"Empanada,Tinto"
+2274,"Agua,Torta de Chocolate"
+2275,"Capuchino,Tinto"
+2276,"Empanada,Tinto"
+2277,Jugo de Naranja
+2278,Tinto
+2279,Tinto
+2280,"Pan de Bono,Tinto"
+2281,"Capuchino,Jugo de Naranja"
+2282,"Pan de Bono,Empanada,Jugo de Naranja"
+2283,"Latte,Torta de Chocolate"
+2284,Jugo de Naranja
+2285,"Pan de Bono,Tinto"
+2286,"Pan de Bono,Tinto"
+2287,"Pan de Bono,Jugo de Naranja"
+2288,"Pan de Bono,Tinto,Capuchino"
+2289,Agua
+2290,"Pan de Bono,Jugo de Naranja"
+2291,"Capuchino,Latte"
+2292,Jugo de Naranja
+2293,"Pan de Bono,Agua,Tinto"
+2294,Agua
+2295,Latte
+2296,"Pan de Bono,Tinto"
+2297,"Agua,Tinto"
+2298,"Pan de Bono,Tinto"
+2299,Tinto
+2300,Tinto
+2301,Tinto
+2302,Tinto
+2303,"Galleta de Avena,Latte"
+2304,"Pan de Bono,Tinto"
+2305,"Galleta de Avena,Agua"
+2306,"Pan de Bono,Tinto"
+2307,"Galleta de Avena,Latte"
+2308,"Tinto,Latte,Torta de Chocolate"
+2309,"Empanada,Tinto"
+2310,"Empanada,Tinto"
+2311,Jugo de Naranja
+2312,"Empanada,Tinto"
+2313,"Empanada,Tinto"
+2314,"Pan de Bono,Jugo de Naranja"
+2315,Jugo de Naranja
+2316,"Capuchino,Galleta de Avena"
+2317,"Galleta de Avena,Latte"
+2318,"Capuchino,Tinto,Torta de Chocolate"
+2319,"Empanada,Latte"
+2320,"Empanada,Tinto"
+2321,"Pan de Bono,Tinto"
+2322,Capuchino
+2323,Agua
+2324,"Empanada,Tinto"
+2325,"Empanada,Tinto"
+2326,"Capuchino,Torta de Chocolate"
+2327,Jugo de Naranja
+2328,"Empanada,Tinto"
+2329,"Latte,Torta de Chocolate"
+2330,Jugo de Naranja
+2331,"Pan de Bono,Tinto"
+2332,Agua
+2333,"Galleta de Avena,Latte"
+2334,"Capuchino,Galleta de Avena"
+2335,"Pan de Bono,Tinto,Galleta de Avena"
+2336,"Pan de Bono,Tinto"
+2337,"Empanada,Jugo de Naranja"
+2338,"Capuchino,Torta de Chocolate"
+2339,Jugo de Naranja
+2340,"Pan de Bono,Empanada,Jugo de Naranja"
+2341,Agua
+2342,"Galleta de Avena,Latte"
+2343,"Galleta de Avena,Latte"
+2344,"Pan de Bono,Empanada,Tinto"
+2345,"Capuchino,Agua"
+2346,Tinto
+2347,"Capuchino,Torta de Chocolate"
+2348,"Latte,Torta de Chocolate"
+2349,"Galleta de Avena,Agua"
+2350,"Capuchino,Torta de Chocolate"
+2351,Latte
+2352,"Pan de Bono,Jugo de Naranja"
+2353,Tinto
+2354,Jugo de Naranja
+2355,Agua
+2356,"Tinto,Jugo de Naranja"
+2357,"Capuchino,Torta de Chocolate"
+2358,"Capuchino,Torta de Chocolate"
+2359,"Pan de Bono,Jugo de Naranja"
+2360,"Pan de Bono,Agua"
+2361,Capuchino
+2362,Tinto
+2363,"Empanada,Tinto"
+2364,"Capuchino,Galleta de Avena"
+2365,"Galleta de Avena,Latte"
+2366,"Capuchino,Galleta de Avena"
+2367,"Pan de Bono,Agua,Jugo de Naranja"
+2368,"Galleta de Avena,Latte"
+2369,"Pan de Bono,Jugo de Naranja"
+2370,Latte
+2371,"Empanada,Latte,Torta de Chocolate"
+2372,"Pan de Bono,Agua"
+2373,"Capuchino,Galleta de Avena"
+2374,Agua
+2375,Agua
+2376,"Empanada,Tinto"
+2377,"Empanada,Tinto"
+2378,"Galleta de Avena,Latte"
+2379,"Galleta de Avena,Latte"
+2380,"Capuchino,Jugo de Naranja"
+2381,"Capuchino,Galleta de Avena"
+2382,"Galleta de Avena,Latte,Torta de Chocolate"
+2383,"Pan de Bono,Jugo de Naranja"
+2384,"Pan de Bono,Latte"
+2385,"Pan de Bono,Tinto"
+2386,"Capuchino,Latte,Torta de Chocolate"
+2387,Agua
+2388,"Empanada,Tinto"
+2389,Tinto
+2390,Jugo de Naranja
+2391,Tinto
+2392,"Pan de Bono,Jugo de Naranja"
+2393,"Pan de Bono,Tinto"
+2394,"Empanada,Jugo de Naranja"
+2395,Jugo de Naranja
+2396,"Capuchino,Galleta de Avena"
+2397,"Pan de Bono,Tinto"
+2398,Tinto
+2399,"Capuchino,Agua"
+2400,Tinto
+2401,Agua
+2402,"Capuchino,Galleta de Avena"
+2403,"Capuchino,Galleta de Avena"
+2404,Latte
+2405,"Capuchino,Empanada,Galleta de Avena"
+2406,Latte
+2407,"Capuchino,Empanada,Tinto"
+2408,Agua
+2409,"Pan de Bono,Tinto"
+2410,"Capuchino,Galleta de Avena"
+2411,Capuchino
+2412,"Pan de Bono,Tinto"
+2413,"Galleta de Avena,Latte"
+2414,Tinto
+2415,Tinto
+2416,Latte
+2417,"Pan de Bono,Agua,Empanada"
+2418,Capuchino
+2419,"Latte,Jugo de Naranja"
+2420,"Pan de Bono,Tinto"
+2421,Capuchino
+2422,"Galleta de Avena,Latte"
+2423,"Pan de Bono,Tinto"
+2424,"Pan de Bono,Tinto"
+2425,"Empanada,Tinto,Latte"
+2426,"Latte,Jugo de Naranja"
+2427,Tinto
+2428,"Empanada,Tinto"
+2429,Jugo de Naranja
+2430,Agua
+2431,"Pan de Bono,Tinto"
+2432,"Tinto,Torta de Chocolate"
+2433,"Empanada,Tinto"
+2434,"Pan de Bono,Tinto"
+2435,"Capuchino,Latte"
+2436,"Empanada,Tinto"
+2437,"Galleta de Avena,Latte"
+2438,Agua
+2439,"Pan de Bono,Tinto"
+2440,"Galleta de Avena,Latte"
+2441,Latte
+2442,Tinto
+2443,"Empanada,Tinto"
+2444,Capuchino
+2445,"Galleta de Avena,Latte"
+2446,"Empanada,Tinto"
+2447,"Empanada,Tinto"
+2448,Latte
+2449,Jugo de Naranja
+2450,"Pan de Bono,Agua"
+2451,Jugo de Naranja
+2452,"Empanada,Tinto"
+2453,Capuchino
+2454,"Pan de Bono,Tinto"
+2455,"Pan de Bono,Latte,Torta de Chocolate"
+2456,Agua
+2457,"Capuchino,Empanada,Galleta de Avena"
+2458,"Agua,Tinto"
+2459,"Capuchino,Agua"
+2460,"Pan de Bono,Tinto"
+2461,Latte
+2462,Tinto
+2463,"Pan de Bono,Tinto"
+2464,"Capuchino,Agua"
+2465,Agua
+2466,Tinto
+2467,"Capuchino,Torta de Chocolate"
+2468,"Agua,Latte"
+2469,Tinto
+2470,Capuchino
+2471,Agua
+2472,"Pan de Bono,Tinto"
+2473,Capuchino
+2474,"Empanada,Tinto"
+2475,Jugo de Naranja
+2476,Capuchino
+2477,Agua
+2478,"Agua,Empanada"
+2479,Latte
+2480,Tinto
+2481,Agua
+2482,Jugo de Naranja
+2483,"Empanada,Tinto"
+2484,"Pan de Bono,Tinto"
+2485,"Empanada,Jugo de Naranja"
+2486,"Pan de Bono,Tinto"
+2487,Jugo de Naranja
+2488,Agua
+2489,"Empanada,Tinto"
+2490,"Pan de Bono,Tinto"
+2491,Tinto
+2492,"Pan de Bono,Tinto"
+2493,"Empanada,Jugo de Naranja"
+2494,"Capuchino,Galleta de Avena"
+2495,"Empanada,Tinto"
+2496,"Capuchino,Empanada"
+2497,"Pan de Bono,Tinto"
+2498,"Empanada,Tinto"
+2499,"Pan de Bono,Empanada,Tinto"
